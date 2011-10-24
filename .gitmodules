@@ -1,0 +1,6 @@
+[submodule "Chapter-1"]
+	path = Chapter-1
+	url = https://github.com/ProgRx/Chapter-1
+[submodule "References"]
+	path = References
+	url = https://github.com/ProgRx/References

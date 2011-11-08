@@ -10,3 +10,21 @@
 [submodule "Chapter-3"]
 	path = Chapter-3
 	url = https://github.com/ProgRx/Chapter-3
+[submodule "Chapter-4"]
+	path = Chapter-4
+	url = https://github.com/ProgRx/Chapter-4
+[submodule "Chapter-5"]
+	path = Chapter-5
+	url = https://github.com/ProgRx/Chapter-5
+[submodule "Chapter-6"]
+	path = Chapter-6
+	url = https://github.com/ProgRx/Chapter-6
+[submodule "Chapter-7"]
+	path = Chapter-7
+	url = https://github.com/ProgRx/Chapter-7
+[submodule "Chapter-8"]
+	path = Chapter-8
+	url = https://github.com/ProgRx/Chapter-8
+[submodule "Chapter-9"]
+	path = Chapter-9
+	url = https://github.com/ProgRx/Chapter-9

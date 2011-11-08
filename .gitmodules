@@ -4,3 +4,9 @@
 [submodule "References"]
 	path = References
 	url = https://github.com/ProgRx/References
+[submodule "Chapter-2"]
+	path = Chapter-2
+	url = https://github.com/ProgRx/Chapter-2
+[submodule "Chapter-3"]
+	path = Chapter-3
+	url = https://github.com/ProgRx/Chapter-3
